@@ -1,2 +1,3 @@
-# top
-Repo containing all work related to The Odin Project
+# The Odin Project
+
+This repo will contain all work related to The Odin Project.
